@@ -27,8 +27,8 @@ import ProjectVersions.rlVersion
 
 version = "0.0.11"
 
-project.extra["PluginName"] = "Alchemical Hydra"
-project.extra["PluginDescription"] = "A plugin for the Alchemical Hydra boss."
+project.extra["PluginName"] = "Auto-Spec"
+project.extra["PluginDescription"] = "jadadadada."
 
 dependencies {
     annotationProcessor(Libraries.lombok)
